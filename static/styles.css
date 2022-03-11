@@ -1,0 +1,23 @@
+table, td, th, .segundo, .clasificacion {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.nav {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+}
+
+table, td, th {
+  border: 4px solid #a8450b;
+  font-family: "Times New Roman", Times, serif;
+  padding: 25px, 25px, 25px;
+  text-align: center;
+}
+
+.segundo, .clasificacion {
+  background-color: #eccf98;
+}
+/*# sourceMappingURL=styles.css.map */

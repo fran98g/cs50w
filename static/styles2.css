@@ -1,0 +1,30 @@
+#gen, #uno, #dos, #tres {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: double;
+    text-decoration-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#gen {
+    color: #220A66;
+}
+
+#uno {
+    color: #035A4C;
+}
+
+#dos {
+    color: #590F4A;
+}
+
+#tres {
+    color: #AD6126;
+}
+
+.clasificacion, .segundo {
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 16pt;
+}
